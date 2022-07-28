@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To save and send to your mail.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>To save and send to your mail.</string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Firebase</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.541597797569-m4bnc8a2j1filfmucf8fclc1etevh4jo</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Bold</string>
+		<string>OpenSans-Light</string>
+		<string>OpenSans-Medium</string>
+		<string>OpenSans-Regular</string>
+		<string>OpenSans-SemiBold</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+/* 
+  Language.strings
+  Lex
+
+  Created by ChawTech Solutions on 07/03/22.
+  
+*/
+
+"Welcome" = "Welcome";
+"Thank you for trying this app, you are a great person!" = "Thank you for trying this app, you are a great person!";
+"Cancel" = "Cancel";
+"Signup" = "Signup";
+"To view the routine tests that are right for you, you need to fill in the details." = "To view the routine tests that are right for you, you need to fill in the details.";
+"Fresh Concept" = "Fresh Concept";
+"The tests that can save your life !" = "The tests that can save your life !";
+"According to the personal information you provided, the following are medical examinations must be performed. If you have performed any of the examinations, V-mark and indicated the year in which the examination was performed." = "According to the personal information you provided, the following are medical examinations must be performed. If you have performed any of the examinations, V-mark and indicated the year in which the examination was performed.";
+"Tests to be performed" = "Tests to be performed";
+"Language" = "Language";
+"Please Select language" = "Please Select language";
+"English" = "English";
+"Hebrew" = "עִברִית";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email" = "Email";
+"Date of Birth" = "Date of Birth";
+"Sex" = "Sex";
+"Smoker" = "Smoker";
+"Please select your DOB" = "Please select your DOB";
+"Please answer all the question." = "Please answer all the question.";
+"Please enter your first name." = "Please enter your first name.";
+"Please enter your last name." = "Please enter your last name.";
+"Please enter your email." = "Please enter your email.";
+"Done" = "Done";
+"Tests to be performed Currently." = "Tests to be performed Currently.";
+"Tests to be performed in Future." = "Tests to be performed in Future.";
+"Test to be performed: " = "Test to be performed";
+"What age: " = "What age:";
+"Year" = "Year";
+"Month" = "Month";
+"Days" = "Days";
+"Immediately" = "Immediately";
+"In which year you performed this test ?" = "In which year you performed this test ?";
+"Delete" = "Delete";
+"Are you sure you want to remove this test from the list?" = "Are you sure you want to remove this test from the list?";
+"Yes" = "Yes";
+"No" = "No";
+"Data saved successfully." = "Data saved successfully.";
+"Please agree to our privacy policy." = "Please agree to our privacy policy.";
+"Please select a date." = "Please select a date.";
+"Please input value between 1 to 250." = "Please input value between 1 to 250.";
+

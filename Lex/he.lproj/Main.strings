@@ -1,0 +1,40 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3eK-ds-xie"; */
+"3eK-ds-xie.normalTitle" = "Hebrew";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "8kz-1J-BRB"; */
+"8kz-1J-BRB.text" = "Bhasha";
+
+"wUQ-7n-Hmn.text" = "כדי לצפות בבדיקות השגרתיות המתאימות לכם, יש למלא את הפרטים.";
+"wU6-ET-HlC.text" = "קונספט טרי";
+"tzk-Rl-M2q.text" = "הבדיקות שיכולות להציל את חייך!";
+"4Az-Et-9cg.text" = "בהתאם לקריטריונים האישיים שלךעל פי המידע האישי שמסרת, יש לבצע את הבדיקות הרפואיות הבאות. אם ביצעת אחת מהבדיקות, סמן וי וציין את השנה שבה בוצעה הבדיקה.";
+"Xb4-1b-Pr1.text" = "בדיקות שיש לבצע";
+
+"I8E-Hy-VX2.text" = "מִין";
+"MeW-TO-QSO.text" = "מְעַשֵׁן";
+"EaJ-gs-3P7.normalTitle" = "כן";
+"n5S-2W-MTE.normalTitle" = "לא";
+"2WS-Ie-QG0.normalTitle" = "בדיקות רפואיות מומלצות עבורך";
+"ju3-2h-gl0.normalTitle" = "להציל";
+"b9X-Vf-OJH.normalTitle" = "מידע על הבדיקה";
+
+//TextFeilds
+"ViU-Zu-h5t.placeholder" = "שם פרטי";
+"ppJ-AJ-BB6.placeholder" = "שם משפחה";
+"NgI-KM-2Si.placeholder" = "אימייל";
+"YzA-vj-nUm.placeholder" = "תאריך לידה";
+
+"C0s-Pl-jqr.normalTitle" = "להציל";
+"OoB-N4-KIq.normalTitle" = "לִמְחוֹק";
+"n3b-F4-XQQ.normalTitle" = "לוּחַ שָׁנָה";
+"Vw0-Fl-2tj.normalTitle" = "לְבַטֵל";
+"9Gr-bK-eXx.normalTitle" = "להציל";
+
+"vUz-9k-HOq.text" = "מדיניות פרטיות";
+
+"N9Z-Q1-VOv.text" = "קונספט טרי";
+"oXC-fS-PTo.text" = "הבדיקות שיכולות להציל את חייך!";
+"h96-4m-sec.text" = "בחר תאריך";
+"Aae-cq-uuf.text" = "באיזו שנה ביצעת את הבדיקה הזו?";
+"h96-4m-sec.placeholder" = "בחר תאריך";

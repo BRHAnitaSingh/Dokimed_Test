@@ -1,0 +1,52 @@
+/* 
+  Language.strings
+  Lex
+
+  Created by ChawTech Solutions on 07/03/22.
+  
+*/
+
+"Welcome" = "ברוך הבא";
+"Thank you for trying this app, you are a great person!" = "תודה שניסית את האפליקציה הזו, אתה אדם נהדר!";
+"Cancel" = "לְבַטֵל";
+"Signup" = "הירשם";
+"To view the routine tests that are right for you, you need to fill in the details." = "כדי לצפות בבדיקות השגרתיות המתאימות לכם, יש למלא את הפרטים.";
+"Fresh Concept" = "לקוחות";
+"The tests that can save your life !" = "הבדיקות שיכולות להציל את חייך!";
+"According to the personal information you provided, the following are medical examinations must be performed. If you have performed any of the examinations, V-mark and indicated the year in which the examination was performed." = "בהתאם לקריטריונים האישיים שלךעל פי המידע האישי שמסרת, יש לבצע את הבדיקות הרפואיות הבאות. אם ביצעת אחת מהבדיקות, סמן וי וציין את השנה שבה בוצעה הבדיקה.";
+"Tests to be performed" = "בדיקות שיש לבצע";
+"Language" = "שפה";
+"Please Select language" = "נא בחר שפה";
+"English" = "English";
+"Hebrew" = "עִברִית";
+"Yes" = "כן";
+"No" = "לא";
+"First Name" = "שם פרטי";
+"Last Name" = "שם משפחה";
+"Email" = "אימייל";
+"Date of Birth" = "תאריך לידה";
+"Sex" = "מִין";
+"Smoker" = "מְעַשֵׁן";
+"Please select your DOB" = "בבקשה בחר את הדוב שלך";
+"Please answer all the question." = "בבקשה תענה על כל השאלות.";
+"Please enter your first name." = "אנא הכנס את שמך הפרטי.";
+"Please enter your last name." = "אנא הכנס את שם המשפחה שלך.";
+"Please enter your email." = "אנא הכנס את המייל שלך.";
+"Done" = "בוצע";
+"Tests to be performed Currenlty." = "יש לבצע בדיקות כרגע.";
+"Tests to be performed in Future." = "בדיקות שיבוצעו בעתיד.";
+"Test to be performed: " = "יש לבצע בדיקה";
+"What age: " = "איזה גיל: ";
+"Year" = "שָׁנָה";
+"Month" = "חוֹדֶשׁ";
+"Days" = "ימים";
+"Immediately" = "מיד";
+"In which year you performed this test ?" = "באיזו שנה ביצעת את הבדיקה הזו?";
+"Delete" = "לִמְחוֹק";
+"Are you sure you want to remove this test from the list?" = "האם אתה בטוח שאתה רוצה להסיר את הבדיקה הזו מהרשימה?";
+"Yes" = "כן";
+"No" = "לא";
+"Data saved successfully." = "הנתונים נשמרו בהצלחה.";
+"Please agree to our privacy policy." = "נא להסכים למדיניות הפרטיות שלנו.";
+"Please select a date." = "אנא בחר תאריך.";
+"Please input value between 1 to 250." = "אנא הזן ערך בין 1 ל-250.";
